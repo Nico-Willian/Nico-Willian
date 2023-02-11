@@ -15,7 +15,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Onde entrar em contato comigo? Segue os links abaixo!!
+  ### Where to contact me? Follow the links below!!
  
 <div> 
   <a href = "mailto:brasilsantanawillian1221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
