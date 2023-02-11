@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de Willian Brasil 😁
+## Welcome to the profile of Willian Brasil 😁
 
  <div>
    <a href="https://github.com/Nico-Willian">
